@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Image/image.png" alt="PaperBlade Logo" width="200">
+  <img src="Image/logo.svg" alt="PaperBlade Logo" width="200">
 </p>
 
 # PaperBlade 📄🗡️
