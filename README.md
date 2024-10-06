@@ -27,11 +27,11 @@ PaperBlade is currently under active development and not yet available for publi
 ## How to Use 🚀
 
 While PaperBlade is still in development, here's a sneak peek of how it will work:
-Navigate to an academic paper webpage 📃
-Click on the PaperBlade icon ✂️
-Select your desired conversion options ⚙️
-Hit the "Convert" button 🔄
-Download your generated training data 📥
+- Navigate to an academic paper webpage 📃
+- Click on the PaperBlade icon ✂️
+- Select your desired conversion options ⚙️
+- Hit the "Convert" button 🔄
+- Download your generated training data 📥
 
 ## Contributing 🤝
 
