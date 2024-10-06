@@ -17,7 +17,7 @@ PaperBlade is a revolutionary browser plugin 🔌 designed to streamline the pro
 - 🔗 Citation Linking: Preserve references to original sources for traceability
 - 🔄 Batch Processing: Handle multiple papers in one go
 - 🛠️ Customization Options: Tailor output to your specific needs
-- 
+
 ## Installation 💻
 
 🚧 Coming Soon! 🚧
