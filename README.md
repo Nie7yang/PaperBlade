@@ -2,7 +2,7 @@
   <img src="Image/logo.svg" alt="PaperBlade Logo" width="200">
 </p>
 
-# PaperBlade 📄🗡️
+# PaperBlade 📄✂️
 
 A browser plugin to transform academic papers into training data for LLMs 🚀🧠
 
@@ -28,7 +28,7 @@ PaperBlade is currently under active development and not yet available for publi
 
 While PaperBlade is still in development, here's a sneak peek of how it will work:
 Navigate to an academic paper webpage 📃
-Click on the PaperBlade icon 🗡️
+Click on the PaperBlade icon ✂️
 Select your desired conversion options ⚙️
 Hit the "Convert" button 🔄
 Download your generated training data 📥
