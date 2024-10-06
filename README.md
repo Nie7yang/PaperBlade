@@ -1,6 +1,7 @@
 <p align="center">
   <img src="Image/image.png" alt="PaperBlade Logo" width="200">
 </p>
+
 # PaperBlade 📄🗡️
 
 A browser plugin to transform academic papers into training data for LLMs 🚀🧠
